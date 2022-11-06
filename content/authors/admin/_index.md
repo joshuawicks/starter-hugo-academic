@@ -2,12 +2,9 @@
 title: Joshua Wicks
 role: Climatetech Researcher
 avatar_filename: img_8918-1-.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+bio: "My research interests include industrial decarbonization and clean energy
+  storage. "
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,7 +25,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
+  - name: Unviversity of Toronto
     url: https://www.stanford.edu/
 education:
   courses:
@@ -44,9 +41,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Joshua Wicks is a ...
