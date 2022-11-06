@@ -30,7 +30,7 @@ social:
       header: true
 organizations:
   - name: Unviversity of Toronto
-    url: https://www.stanford.edu/
+    url: https://www.utoronto.ca
 education:
   courses:
     - course: PhD in Electrochemical Engineering
