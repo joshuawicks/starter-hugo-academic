@@ -1,7 +1,7 @@
 ---
 title: Joshua Wicks
 role: Climatetech Researcher
-avatar_filename: img_8918-1-.jpg
+avatar_filename: avatar.jpg
 bio: "My research interests include industrial decarbonization and clean energy
   storage. "
 interests: []
