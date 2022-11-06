@@ -11,19 +11,23 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/JoshuaAWicks
     label: Follow me on Twitter
     display:
-      header: true
+      header: false
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=tE3TeD8AAAAJ&hl=en&oi=ao
+    display:
+      header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/joshuawicks
   - icon: linkedin
     icon_pack: fab
     link: www.linkedin.com/in/joshuawicks
+    display:
+      header: true
 organizations:
   - name: Unviversity of Toronto
     url: https://www.stanford.edu/
